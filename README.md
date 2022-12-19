@@ -1,0 +1,1 @@
+A Youtube authentication task. Authenticate a user and return the number of videos the user liked.
